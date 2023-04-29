@@ -17,6 +17,9 @@ class MainViewController: UIViewController {
     let elementList = ["Harley-Davison", "Mercedes", "Opel", "Porsche"]
     var currentElementIndex = 0
     
+    
+    
+    
     @IBOutlet weak var imageView: UIImageView!
     @IBOutlet weak var answerLabel: UILabel!
 
